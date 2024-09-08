@@ -1,4 +1,4 @@
-# Hey there, I'm FexTai! 👋<br><br>Diltheyschule 🎓<br><br>## 🚀 Skills<br>- **Languages**: <br>  - Java ☕ (main language)<br>  - Python 🐍 (intermediate)<br>  - HTML & CSS 🌐 (intermediate)<br>  - JavaScript 📜 (basics)<br><br>**Technologies**:<br>  - Linux systems 🐧<br>  - LibreOffice Suite 📑<br>  - Microsoft Office Suite 💻
+# Hey there, I'm FexTai! 👋<br><br>Diltheyschule 🎓<br><br> 🚀 Skills<br><br>- **Languages**: <br>  - Java ☕ (main language)<br>  - Python 🐍 (intermediate)<br>  - HTML & CSS 🌐 (intermediate)<br>  - JavaScript 📜 (basics)<br><br>**Technologies**:<br>  - Linux systems 🐧<br>  - LibreOffice Suite 📑<br>  - Microsoft Office Suite 💻
 
 
 ## 🌐 Socials:
